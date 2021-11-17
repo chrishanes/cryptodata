@@ -23,7 +23,7 @@ function WidgetCoin() {
 	return (
 		<React.Fragment>
             <Container maxWidth="lg">
-			    <Typography component="h2" variant="h3">Coin Price Widget</Typography>
+			    <Typography component="h2" variant="h3">Coin Price</Typography>
                 <Container maxWidth="sm">
                     <Card variant="outlined">
                         <CardContent>

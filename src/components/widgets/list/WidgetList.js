@@ -30,7 +30,7 @@ function WidgetList() {
 	return (
 		<React.Fragment>
 			<Container maxWidth="lg">
-				<Typography component="h2" variant="h3">List Widget</Typography>
+				<Typography component="h2" variant="h3">Coin List</Typography>
 				<Card variant="outlined">
 					<CardContent>
 						<TableContainer component={Paper}>

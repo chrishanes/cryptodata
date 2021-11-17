@@ -25,7 +25,7 @@ export default function App() {
 							variant="h2"
 							align="center"
 						>
-							Cryptodata widgets
+							Cryptodata Live Widgets
 						</Typography>
 					</Container>
 				</Box>
